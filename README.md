@@ -1,2 +1,2 @@
 # Petra
-.py o
+Tamamen açık kaynaklı ve basit yapay zekâ programları.
