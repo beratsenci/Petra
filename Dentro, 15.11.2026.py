@@ -21,3 +21,4 @@ while True:
 
     else:
       print(f"Girdinizi tam olarak anlayamadım {A}.")
+        
